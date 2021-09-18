@@ -1,7 +1,11 @@
 
 body {
+    
+    background-color: #92d6bd
+    }
+
+#top-body {
+    
     margin: auto;
-    
-    background-color: #92d6bd;
-    
+	width: 800px;
     }
