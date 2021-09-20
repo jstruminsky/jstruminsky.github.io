@@ -1,21 +1,17 @@
-
 body {
     
     	background-color: #92d6bd;
     }
-
 #top-body {
     
     	margin: auto;
 	width: 800px;
     }
-
 #nav-bar {
     
     	margin: auto;
 	width: 800px;
     }
-
 #main-body {
 	
 	margin: auto;
@@ -25,4 +21,14 @@ body {
 	
 	background-image: url("myBackground.jpg");
 	color: #ecf0e1;
+    }
+#left-floater{
+	border: 10px solid darkgreen;
+	width: 150px;
+	float:left;
+    }
+#right-floater{
+	border: 10px solid darkgreen;
+	width: 150px;
+	float:right;
     }
