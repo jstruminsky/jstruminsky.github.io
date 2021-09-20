@@ -22,3 +22,8 @@ body {
 	margin: auto;
 	width: 800px;
     }
+#about-me {
+	
+	background-image: src="myBackground.jpg"
+	
+    }
