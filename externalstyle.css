@@ -22,13 +22,25 @@ body {
 	background-image: url("myBackground.jpg");
 	color: #ecf0e1;
     }
-#left-floater{
+#left-floater1{
 	border: 10px solid darkgreen;
 	width: 150px;
 	float:left;
+    }
+#left-floater2{
+	border: 10px solid darkgreen;
+	width: 150px;
+	float:left;
+	clear:left;
     }
 #right-floater{
 	border: 10px solid darkgreen;
 	width: 150px;
 	float:right;
+    }
+#right-floater2{
+	border: 10px solid darkgreen;
+	width: 150px;
+	float:right;
+	clear:right;
     }
